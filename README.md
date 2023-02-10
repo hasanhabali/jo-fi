@@ -5,7 +5,7 @@ Simple Wi-Fi networks scanner.
 python, git
 # Usage
 ```
-git clone https://github.com/hasanhabali/jo-fi/jo-fi.py
+git clone https://github.com/hasanhabali/jo-fi.git
 cd jo-fi
 sudo python ./jo-fi.py
 ```
